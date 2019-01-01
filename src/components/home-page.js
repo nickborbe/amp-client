@@ -41,7 +41,7 @@ class HomePage extends Component {
         </div>
 
 
-        <section id="mid-age-vids">
+        <section id="mid-hp-vids">
 
         <h2>Latest Featured Videos</h2>
 
@@ -53,10 +53,17 @@ class HomePage extends Component {
 
 
         <div className="right">
+
+        <div>
           <img src="/images/fake-vid-thumb.png" />
           <img src="/images/fake-vid-thumb.png" />
+        </div>
+
+        <div>
+
           <img src="/images/fake-vid-thumb.png" />
           <img src="/images/fake-vid-thumb.png" />
+        </div>
         
         </div>
 
