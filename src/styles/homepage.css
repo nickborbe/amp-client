@@ -47,3 +47,7 @@
     background-image: url('/images/hp-img-temp.png');
     height: 600px;
 }
+
+.left{
+    float: left;
+}
