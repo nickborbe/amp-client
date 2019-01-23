@@ -46,12 +46,16 @@ class HomePage extends Component {
         <h2>Latest Featured Videos</h2>
 
         
-        <div>
+        <div className="left">
+
         <img src="/images/fake-vid.png"/>
         </div>
 
 
-        <div>
+        <div className="right">
+          <img src="/images/fake-vid-thumb.png" />
+          <img src="/images/fake-vid-thumb.png" />
+          <img src="/images/fake-vid-thumb.png" />
           <img src="/images/fake-vid-thumb.png" />
         
         </div>
