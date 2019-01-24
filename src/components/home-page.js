@@ -43,6 +43,8 @@ class HomePage extends Component {
 
         <section id="mid-age-vids">
 
+        <h2>Latest Featured Videos</h2>
+
         
         <div>
         <img src="/images/fake-vid.png"/>
