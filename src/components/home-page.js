@@ -76,18 +76,21 @@ class HomePage extends Component {
 
         <section id="contest-section">
 
-        <div class="left-side">
+        {/* <div class="left-side">
 
         <h2>Latest Constest!</h2>
 
         <p>some info about the contest</p>
 
         <button>Enter Constest</button>
-        </div>
+        </div> */}
 
-        <div class="right-side">
+        {/* <div class="right-side">
         <img src="#"></img>
-        </div>
+        </div> */}
+
+        
+
         </section>
 
 
