@@ -100,6 +100,10 @@ class HomePage extends Component {
 
         <img src="/images/carousel-1.png" />
 
+        <img src="/images/carousel-2.png" />
+
+        <img src="/images/carousel-3.png" />
+
         <i class="fas fa-angle-right"></i>
 
 
