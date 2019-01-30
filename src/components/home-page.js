@@ -42,17 +42,16 @@ class HomePage extends Component {
 
 
         <section id="mid-age-vids">
+
         
         <div>
-        <video></video>
+        <img src="/images/fake-vid.png"/>
         </div>
 
 
         <div>
-        <video></video>
-        <video></video>
-        <video></video>
-        <video></video>
+          <img src="/images/fake-vid-thumb.png" />
+        
         </div>
 
       <button>See All</button>
