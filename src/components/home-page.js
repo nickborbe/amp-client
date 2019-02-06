@@ -98,6 +98,8 @@ class HomePage extends Component {
 
         <i class="fas fa-angle-left"></i>
 
+        <img src="/images/carousel-1.png" />
+
         <i class="fas fa-angle-right"></i>
 
 
