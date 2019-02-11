@@ -8,7 +8,7 @@ class HomePage extends Component {
   render() {
     return (
       <div>
-        <header>
+        <header id="hp-header">
         <i class="fab fa-facebook-f"></i>
         <i class="fab fa-twitter"></i>
         <i class="fab fa-instagram"></i>
