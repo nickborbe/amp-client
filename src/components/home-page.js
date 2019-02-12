@@ -18,7 +18,7 @@ class HomePage extends Component {
           ANA MARIA POLO
 
           <i class="fas fa-user"></i>
-          <img/>
+          <i class="fal fa-shopping-cart"></i>
         </header>
         <nav>
           <a href="#">About</a>
