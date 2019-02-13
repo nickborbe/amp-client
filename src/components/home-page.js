@@ -96,10 +96,12 @@ class HomePage extends Component {
 
         <div id="hp-carousel-ads">
 
+        <i class="fas fa-angle-left"></i>
 
 
 
-        
+
+
         
         </div>
 
