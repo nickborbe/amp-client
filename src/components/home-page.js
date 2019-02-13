@@ -17,7 +17,7 @@ class HomePage extends Component {
 
           ANA MARIA POLO
 
-          <img/>
+          <i class="fas fa-user"></i>
           <img/>
         </header>
         <nav>
