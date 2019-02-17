@@ -10,7 +10,7 @@ class HomePage extends Component {
       <div>
         <header>
         <i class="fab fa-facebook-f"></i>
-          <img/>
+        <i class="fab fa-twitter"></i>
           <img/>
           <img/>
 
