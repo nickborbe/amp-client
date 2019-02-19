@@ -9,13 +9,12 @@ class HomePage extends Component {
     return (
       <div>
         <header>
+          <i className="fas fa-user"></i>
           <img/>
           <img/>
           <img/>
 
-          ANA
-          <i className="fas fa-user"></i>
-           MARIA POLO
+          ANA MARIA POLO
 
           <img/>
           <img/>
