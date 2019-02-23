@@ -12,8 +12,7 @@ class HomePage extends Component {
           <img/>
           <img/>
 
-          ANA 
-          MARIA POLO
+          ANA MARIA POLO
 
           <img/>
           <img/>
