@@ -13,7 +13,6 @@ class HomePage extends Component {
           <img/>
 
           ANA 
-          <i class="fab fa-facebook-f"></i>
           MARIA POLO
 
           <img/>
