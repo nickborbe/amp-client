@@ -137,6 +137,11 @@ class HomePage extends Component {
 
         <div class="column">
         <h6> Shop </h6>
+        <a>Ordering & Payment</a>
+        <a>Shipping</a>
+        <a>Returns</a>
+        <a>FAQ</a>
+
         </div>
         <div class="column">
         </div>
