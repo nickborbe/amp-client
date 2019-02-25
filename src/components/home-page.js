@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
-import '../App.css';
+import '../styles/homepage.css';
+
 
 class HomePage extends Component {
   render() {
@@ -10,9 +11,10 @@ class HomePage extends Component {
           <img/>
           <img/>
           <img/>
-          <img/>
 
-          ANA MARIA POLO
+          ANA 
+          <i class="fab fa-facebook-f"></i>
+          MARIA POLO
 
           <img/>
           <img/>
