@@ -115,6 +115,7 @@ class HomePage extends Component {
 
       <footer>
         <div class="column">
+        <h6> Connect </h6>
         <div>
           <img></img>
           <p>Facebook</p>
