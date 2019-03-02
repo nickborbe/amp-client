@@ -115,6 +115,23 @@ class HomePage extends Component {
 
       <footer>
         <div class="column">
+        <div>
+          <img></img>
+          <p>Facebook</p>
+        </div>
+        <div>
+          <img></img>
+          <p>Twitter</p>
+        </div>
+        <div>
+          <img></img>
+          <p>Instagram</p>
+        </div>
+        <div>
+          <img></img>
+          <p>You Tube</p>
+        </div>
+        
         </div>
         <div class="column">
         </div>
