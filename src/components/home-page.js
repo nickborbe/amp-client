@@ -36,7 +36,7 @@ class HomePage extends Component {
         </nav>
 
         <div id="hp-main-image">
-          image goes here 
+         
 
         </div>
 
