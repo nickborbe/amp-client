@@ -42,3 +42,8 @@
     text-decoration: none;
     
 }
+
+#hp-main-image{
+    background-image: url('/images/hp-img-temp.png');
+    height: 180px;
+}
