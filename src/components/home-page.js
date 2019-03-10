@@ -89,7 +89,6 @@ class HomePage extends Component {
         <img src="#"></img>
         </div> */}
 
-        
 
         </section>
 
