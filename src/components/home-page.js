@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './App.css';
+import '../App.css';
 
 class HomePage extends Component {
   render() {
@@ -129,4 +129,4 @@ class HomePage extends Component {
   }
 }
 
-export default App;
+export default HomePage;
