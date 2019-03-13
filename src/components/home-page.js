@@ -127,7 +127,7 @@ class HomePage extends Component {
 
         <section id="non-prof-section">
 
-        
+        <img src="nonprofit-section.png" id="nonprofimage" />
 
         </section>
 
