@@ -127,6 +127,12 @@ class HomePage extends Component {
 
         <section id="non-prof-section">
 
+        <div>
+          <h2>This Section Is For Non Profit Work</h2>
+          <p>Lorem ipsum dolor amet cred yr pour-over banjo sriracha, health goth air plant disrupt lo-fi williamsburg iceland hoodie truffaut blue bottle. Artisan church-key cronut bicycle rights. Fanny pack quinoa sustainable, affogato unicorn cred tacos 8-bit keytar paleo hexagon. Normcore wayfarers glossier everyday carry paleo kogi. Mlkshk pug artisan cliche XOXO, vexillologist gochujang quinoa shoreditch affogato cold-pressed four loko messenger bag try-hard. Distillery yr +1, meh retro you probably haven't heard of them jean shorts lumbersexual wolf austin vape cliche irony offal. Cornhole irony cardigan, butcher tbh adaptogen sustainable flannel paleo meh tousled.</p>
+          <button>Donate Today</button>
+        </div>
+
         <img src="/images/nonprofit-section.png" id="nonprofimage" />
 
         </section>
