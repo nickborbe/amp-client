@@ -137,9 +137,12 @@
 
 #non-prof-section{
     background-color: #caa453;
+    display: flex;
+    justify-content: flex-end;
+    height: 465px;
 
 }
 
 #nonprofimage{
-    float: right;
+    width: 53%;
 }
