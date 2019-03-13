@@ -138,11 +138,15 @@
 #non-prof-section{
     background-color: #caa453;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     height: 465px;
 
 }
 
 #nonprofimage{
     width: 53%;
+}
+
+#non-prof-left-side{
+    padding: 2% 10%;
 }
