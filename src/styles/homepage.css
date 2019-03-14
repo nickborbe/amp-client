@@ -169,3 +169,12 @@
     border-radius: 4px;
 }
 
+#hp-sponsored-add-bottom{
+    height: 200px;
+    background-color: #515151;
+    color: #b7b7b7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
