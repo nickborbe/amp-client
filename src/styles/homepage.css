@@ -150,3 +150,22 @@
 #non-prof-left-side{
     padding: 2% 10%;
 }
+
+#non-prof-left-side h2{
+    color: white;
+    font-size: 35px;
+}
+
+#non-prof-left-side p{
+    font-size: 12px;
+}
+
+#non-prof-left-side button{
+    margin: 35px 0 0 0;
+    background-color: black;
+    color: white;
+    width: 150px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
