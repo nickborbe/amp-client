@@ -140,7 +140,7 @@ class HomePage extends Component {
 
 
         <div id="hp-sponsored-add-bottom">
-        Sponsored Ad #2
+        Sponsored Ad #2 (eventually)
         </div>
 
       <section id="hp-gallery">
