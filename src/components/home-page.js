@@ -26,7 +26,8 @@ class HomePage extends Component {
           <i class="fas fa-shopping-cart"></i>
           </span>
         </header>
-        <nav>
+
+        <nav className="hp-navbar">
           <a href="#">About</a>
           <a href="#">Contacts</a>
           <a href="#">Videos</a>
