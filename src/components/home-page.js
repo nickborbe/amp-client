@@ -114,7 +114,11 @@ class HomePage extends Component {
       </div>
 
       <footer>
-        
+        <div class="column"></div>
+        <div class="column"></div>
+        <div class="column"></div>
+        <div class="column"></div>
+        <div class="column"></div>
       </footer>
 
 
