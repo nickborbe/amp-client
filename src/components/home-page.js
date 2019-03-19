@@ -95,7 +95,12 @@ class HomePage extends Component {
 
 
         <div id="hp-carousel-ads">
-        Carousel Goes Here
+
+
+
+
+        
+        
         </div>
 
         <section id="hp-soc-med-section">
