@@ -13,13 +13,19 @@
 }
 
 .hp-header-left-icons{
-    width: 180px;
+    width: 150px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .hp-header-right-icons{
-    width: 90px;
+    width: 150px;
     display: flex;
-    justify-content: space-around; 
+    justify-content: flex-end; 
+}  
+
+.hp-header-right-icons .fas{
+
+    margin: 0 10px;
+
 }
