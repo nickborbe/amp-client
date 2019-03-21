@@ -113,6 +113,10 @@ class HomePage extends Component {
       
       </div>
 
+      <footer>
+        
+      </footer>
+
 
 
    
