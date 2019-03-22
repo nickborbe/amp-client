@@ -99,8 +99,19 @@ class HomePage extends Component {
 
       <button>View All</button>
 
-
       </section>
+
+      <div id="join-the-club">
+
+      <h2>Join The Club!</h2>
+      <p>some stuff about how awesome it is</p>
+
+      <form>
+        <input placeholder="Email Address"></input>
+        <button>Subscribe</button>
+      </form>
+      
+      </div>
 
 
 
