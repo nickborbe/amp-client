@@ -13,4 +13,6 @@
 
 .hp-header-left-icons, .hp-header-right-icons{
     width: 25%;
+    display: flex;
+    justify-content: space-around;
 }
