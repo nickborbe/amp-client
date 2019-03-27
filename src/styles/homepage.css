@@ -4,6 +4,7 @@
     color: white;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .fa-facebook-f, .fa-twitter, .fa-instagram, .fa-youtube, .fa-user, .fa-shopping-cart{
