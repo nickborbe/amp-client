@@ -95,6 +95,10 @@ class HomePage extends Component {
 
       <section id="hp-gallery">
 
+      million images
+
+      <button>View All</button>
+
 
       </section>
 
