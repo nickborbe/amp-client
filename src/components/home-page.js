@@ -69,6 +69,8 @@ class HomePage extends Component {
         </div>
         </section>
 
+
+
         <div id="hp-row-ads">
         Carousel Goes Here
         </div>
@@ -81,6 +83,9 @@ class HomePage extends Component {
 
         <div id="twitter-div"></div>
 
+        </section>
+
+        <section id="non-prof-section">
 
         </section>
 
