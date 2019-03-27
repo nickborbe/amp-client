@@ -89,6 +89,15 @@ class HomePage extends Component {
 
         </section>
 
+        <div id="hp-sponsored-add-bottom">
+        Sponsored Ad
+        </div>
+
+      <section id="hp-gallery">
+
+
+      </section>
+
 
 
    
