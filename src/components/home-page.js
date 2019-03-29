@@ -20,8 +20,11 @@ class HomePage extends Component {
 
           ANA MARIA POLO
 
+          <span className="hp-header-right-icons">
+
           <i class="fas fa-user"></i>
           <i class="fas fa-shopping-cart"></i>
+          </span>
         </header>
         <nav>
           <a href="#">About</a>
