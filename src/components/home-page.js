@@ -75,6 +75,12 @@ class HomePage extends Component {
 
         <section id="hp-soc-med-section">
 
+        <div id="facebook-div"></div>
+
+        <div id="instagram-div"></div>
+
+        <div id="twitter-div"></div>
+
 
         </section>
 
