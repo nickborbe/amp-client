@@ -9,10 +9,13 @@ class HomePage extends Component {
     return (
       <div>
         <header id="hp-header">
+
+        <span className="hp-header-left-icons">
         <i class="fab fa-facebook-f"></i>
         <i class="fab fa-twitter"></i>
         <i class="fab fa-instagram"></i>
         <i class="fab fa-youtube"></i>
+        </span>
           
 
           ANA MARIA POLO
