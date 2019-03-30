@@ -73,6 +73,11 @@ class HomePage extends Component {
         Carousel Goes Here
         </div>
 
+        <section id="hp-soc-med-section">
+
+
+        </section>
+
 
 
    
