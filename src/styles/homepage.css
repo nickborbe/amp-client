@@ -85,4 +85,6 @@
 
 #contest-section{
     background-image: url('/images/fake-contest-section.png');
+    height: 485px;
+    background-size: contain;
 }
