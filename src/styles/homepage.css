@@ -2,3 +2,7 @@
     background-color: black;
     height: 70px;
 }
+
+.fa-facebook-f, .fa-twitter, .fa-instagram, .fa-youtube, .fa-user, .fa-shopping-cart{
+    color: white;
+}
