@@ -67,8 +67,11 @@ class HomePage extends Component {
         <div class="right-side">
         <img src="#"></img>
         </div>
-
         </section>
+
+        <div id="hp-row-ads">
+        Carousel Goes Here
+        </div>
 
 
 
