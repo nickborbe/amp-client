@@ -41,7 +41,7 @@ class HomePage extends Component {
         </div>
 
 
-        <h2>Latest Featured Videos</h2>
+        <h2 id="latest-vid-h2">Latest Featured Videos</h2>
         <section id="mid-hp-vids">
 
 
