@@ -51,11 +51,11 @@
 #mid-hp-vids{
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: flex-start;
 }
 
 #first-row-vid-thumbs img, #second-row-vid-thumbs img{
-    margin: 25px;
+    margin: 0 25px 50px 25px;
 }
 
 #latest-vid-h2{
