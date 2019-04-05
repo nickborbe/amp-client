@@ -50,9 +50,25 @@ class HomePage extends Component {
         </section>
 
         <div id="sponsored-hp-ad">
-        
         Ad Goes Here
         </div>
+
+        <section id="contest-section">
+
+        <div class="left-side">
+
+        <h2>Latest Constest!</h2>
+
+        <p>some info about the contest</p>
+
+        <button>Enter Constest</button>
+        </div>
+
+        <div class="right-side">
+        <image></image>
+        </div>
+
+        </section>
 
 
 
