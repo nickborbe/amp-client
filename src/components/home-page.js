@@ -65,7 +65,7 @@ class HomePage extends Component {
         </div>
 
         <div class="right-side">
-        <image src="#"></image>
+        <img src="#"></img>
         </div>
 
         </section>
