@@ -64,3 +64,9 @@
     align-items: center;
     justify-content: center;
 }
+
+#see-all-vids-btn{
+    margin: 50px;
+    background-color: black;
+    color: white;
+}

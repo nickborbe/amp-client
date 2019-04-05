@@ -68,7 +68,7 @@ class HomePage extends Component {
         </div>
         </section>
 
-      <button>See All</button>
+      <button id="see-all-vids-btn">See All</button>
 
         <div id="sponsored-hp-ad">
         Ad Goes Here
