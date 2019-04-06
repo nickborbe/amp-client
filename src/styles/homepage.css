@@ -50,4 +50,9 @@
 
 #mid-hp-vids{
     display: flex;
+    justify-content: space-around;
+}
+
+#first-row-vid-thumbs img, #second-row-vid-thumbs img{
+    margin: 25px;
 }

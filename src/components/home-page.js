@@ -54,12 +54,12 @@ class HomePage extends Component {
 
         <div className="right">
 
-        <div>
+        <div id="first-row-vid-thumbs">
           <img src="/images/fake-vid-thumb.png" />
           <img src="/images/fake-vid-thumb.png" />
         </div>
 
-        <div>
+        <div id="second-row-vid-thumbs">
 
           <img src="/images/fake-vid-thumb.png" />
           <img src="/images/fake-vid-thumb.png" />
