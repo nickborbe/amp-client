@@ -45,11 +45,14 @@ class HomePage extends Component {
         <video></video>
         </div>
 
-
-
       <button>See All</button>
 
         </section>
+
+        <div id="sponsored-hp-ad">
+        
+        Ad Goes Here
+        </div>
 
 
 
