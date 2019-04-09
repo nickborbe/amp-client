@@ -149,7 +149,8 @@ class HomePage extends Component {
 
       <h2>Picture Gallery Fill Space</h2>
 
-      
+      <div id="hp-gallery-container">
+      </div>
 
       <button>View All</button>
 
