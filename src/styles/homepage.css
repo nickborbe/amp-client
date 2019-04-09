@@ -179,6 +179,7 @@
 }
 
 #hp-gallery-container{
-    
+    height: 700px;
+    background-image: url('/images/hp-gallery.png')
 }
 
