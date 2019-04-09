@@ -36,7 +36,7 @@ class HomePage extends Component {
         <div>
         <video></video>
         </div>
-        
+
 
         <div>
         <video></video>
@@ -47,6 +47,7 @@ class HomePage extends Component {
 
 
 
+      <button>See All</button>
 
         </section>
 
