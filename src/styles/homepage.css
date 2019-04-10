@@ -183,5 +183,13 @@
     background-image: url('/images/hp-gallery.png');
     background-size: contain;
     background-repeat: no-repeat;
+    width: 1000px;
+}
+
+#hp-gallery{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
 }
 
