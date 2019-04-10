@@ -180,6 +180,8 @@
 
 #hp-gallery-container{
     height: 700px;
-    background-image: url('/images/hp-gallery.png')
+    background-image: url('/images/hp-gallery.png');
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
