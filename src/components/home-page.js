@@ -25,6 +25,33 @@ class HomePage extends Component {
           <a href="#">Contact</a>
         </nav>
 
+        <div>
+          image goes here 
+
+        </div>
+
+
+        <section id="mid-age-vids">
+        
+        <div>
+        <video></video>
+        </div>
+        
+
+        <div>
+        <video></video>
+        <video></video>
+        <video></video>
+        <video></video>
+        </div>
+
+
+
+
+        </section>
+
+
+
    
       </div>
     );
