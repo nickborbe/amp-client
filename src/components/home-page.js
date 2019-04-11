@@ -18,10 +18,11 @@ class HomePage extends Component {
           <img/>
         </header>
         <nav>
-          <a href="#"></a>
-          <a href="#"></a>
-          <a href="#"></a>
-          <a href="#"></a>
+          <a href="#">About</a>
+          <a href="#">Contacts</a>
+          <a href="#">Videos</a>
+          <a href="#">Shop</a>
+          <a href="#">Contact</a>
         </nav>
 
    
