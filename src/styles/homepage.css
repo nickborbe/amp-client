@@ -193,3 +193,12 @@
     flex-direction: column;
 }
 
+#hp-gallery button{
+  
+    background-color: black;
+    color: white;
+    width: 150px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
