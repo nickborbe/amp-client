@@ -194,15 +194,21 @@
 }
 
 #hp-gallery button{
-  
+
     background-color: black;
     color: white;
     width: 180px;
     padding: 10px;
     border-radius: 5px;
+    margin: -40px 0 40px 0;
 }
 
 #hp-gallery h2{
     margin: 70px 0;
+}
+
+#join-the-club{
+    height: 280px;
+    background-color: #caa453;
 }
 
