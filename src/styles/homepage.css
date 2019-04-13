@@ -216,10 +216,17 @@
 }
 
 #join-club-wrapper{
-    width: 35%;
+    width: 25%;
 }
 
 #join-club-wrapper p{
     font-size: 12px;
 }
+
+#join-club-wrapper form{
+    display: flex;
+    justify-content: space-around;
+}
+
+
 
