@@ -232,6 +232,20 @@
     background-color: transparent;
     border: 1px solid white;
     color: white;
+    width: 50%;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+
+#join-club-wrapper button{
+
+    background-color: white;
+    color: black;
+    width: 100px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+
 }
 
 ::placeholder{
