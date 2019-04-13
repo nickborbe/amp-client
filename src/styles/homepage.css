@@ -228,5 +228,15 @@
     justify-content: space-around;
 }
 
+#join-club-wrapper input{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+::placeholder{
+    color: white;
+}
+
 
 
