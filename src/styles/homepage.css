@@ -210,5 +210,16 @@
 #join-the-club{
     height: 280px;
     background-color: #caa453;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#join-club-wrapper{
+    width: 35%;
+}
+
+#join-club-wrapper p{
+    font-size: 12px;
 }
 
