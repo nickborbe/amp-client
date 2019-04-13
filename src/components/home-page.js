@@ -6,9 +6,20 @@ class HomePage extends Component {
   render() {
     return (
       <div>
-<header>
+        <header>
+          <img/>
+          <img/>
+          <img/>
+          <img/>
 
-</header>
+          ANA MARIA POLO
+
+          <img/>
+          <img/>
+        </header>
+        <nav>
+          
+        </nav>
 
    
       </div>
