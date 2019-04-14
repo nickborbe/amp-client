@@ -213,10 +213,15 @@
     color: white;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 #join-club-wrapper{
     width: 25%;
+}
+
+#join-club-wrapper h2{
+    margin: 0;
 }
 
 #join-club-wrapper p{
@@ -250,6 +255,25 @@
 
 ::placeholder{
     color: white;
+}
+
+#the-footer{
+    padding: 0 150px 0 25px;
+    background-color: black;
+    height: 200px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+#footer-img-contain{
+    display: flex;
+    align-items: center;
 }
 
 

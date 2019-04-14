@@ -163,7 +163,7 @@ class HomePage extends Component {
 
         <h2>Join The Club!</h2>
 
-        <p>Lorem ipsum dolor amet cred yr pour-over banjo sriracha, artisan church-key cronut bicycle rights. Fanny pack quinoa sustainable, affogato unicorn cred tacos 8-bit keytar paleo hexagon. Normcore wayfarers everyday kogi. Mlkshk pug artisan cliche XOXO, vexillologist gochujang quinoa shoreditch affogato cold-pressed four loko messenger bag try-hard. Distillery yr +1, meh retro you probably haven't heard of them jean shorts lumbersexual wolf austin vape cliche irony cardigan, butcher tbh adaptogen sustainable flannel.</p>
+        <p>Lorem ipsum dolor amet cred yr pour-over banjo sriracha, artisan church-key cronut bicycle rights affogato cold-pressed four loko messenger bag try-hard. Distillery yr +1, meh retro you probably haven't heard of them jean shorts lumbersexual wolf austin vape cliche irony cardigan, butcher tbh adaptogen sustainable flannel.</p>
 
 
         <form>
@@ -174,24 +174,30 @@ class HomePage extends Component {
         </div>
       </div>
 
-      <footer>
+      <footer id="the-footer">
+
+        <div id="footer-img-contain">
+        <img src="/images/name-and-sig.png"></img>
+          
+        </div>
+
         <div class="column">
         <h6> Connect </h6>
         <div>
-          <img></img>
-          <p>Facebook</p>
+        
+          <span>Facebook</span>
         </div>
         <div>
-          <img></img>
-          <p>Twitter</p>
+         
+          <span>Twitter</span>
         </div>
         <div>
-          <img></img>
-          <p>Instagram</p>
+          
+          <span>Instagram</span>
         </div>
         <div>
-          <img></img>
-          <p>You Tube</p>
+         
+          <span>You Tube</span>
         </div>
         
         </div>
@@ -204,12 +210,23 @@ class HomePage extends Component {
         <a>FAQ</a>
 
         </div>
+
         <div class="column">
+        <h6> Information </h6>
+        <a>Privacy Policy</a>
+        <a>Terms & Conditions</a>
+        <a>Ad Choices</a>
+        <a>Contest Rules</a>
+        <a>Contact Us</a>
         </div>
-        <div class="column">
-        </div>
-        <div class="column">
-        </div>
+
+        <form>
+          <h6> Subcribe To Our Newsletter</h6>
+          <input placeholder="email address"/>
+          <button>OK</button>
+
+        </form>
+       
       </footer>
 
 
