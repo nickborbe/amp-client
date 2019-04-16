@@ -41,9 +41,9 @@ class HomePage extends Component {
         </div>
 
 
+        <h2>Latest Featured Videos</h2>
         <section id="mid-hp-vids">
 
-        <h2>Latest Featured Videos</h2>
 
         
         <div className="left">
@@ -66,10 +66,9 @@ class HomePage extends Component {
         </div>
         
         </div>
+        </section>
 
       <button>See All</button>
-
-        </section>
 
         <div id="sponsored-hp-ad">
         Ad Goes Here
