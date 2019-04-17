@@ -269,6 +269,11 @@
 .column{
     display: flex;
     flex-direction: column;
+    align-items: flex-start;
+}
+
+.column i{
+    margin: 5px;
 }
 
 #footer-img-contain{
@@ -276,5 +281,25 @@
     align-items: center;
 }
 
+#the-footer input{
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    width: 50%;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+
+#the-footer button{
+
+    background-color: white;
+    color: black;
+    width: 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+
+}
 
 

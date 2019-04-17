@@ -181,22 +181,25 @@ class HomePage extends Component {
           
         </div>
 
+
+        
         <div class="column">
         <h6> Connect </h6>
         <div>
-        
+          <i class="fab fa-facebook-f"></i>
           <span>Facebook</span>
         </div>
         <div>
-         
+           <i class="fab fa-twitter"></i>
           <span>Twitter</span>
         </div>
         <div>
-          
+            
+        <i class="fab fa-instagram"></i>
           <span>Instagram</span>
         </div>
         <div>
-         
+        <i class="fab fa-youtube"></i>
           <span>You Tube</span>
         </div>
         
