@@ -106,20 +106,22 @@ class HomePage extends Component {
 
         <i class="fas fa-angle-right"></i>
 
-
-
-
-
-        
         </div>
 
+
         <section id="hp-soc-med-section">
+
+        <h2>Social Medial Previews</h2>
+
+       <div id="hp-soc-med-prevs">
 
         <div id="facebook-div"></div>
 
         <div id="instagram-div"></div>
 
         <div id="twitter-div"></div>
+
+       </div>
 
         </section>
 

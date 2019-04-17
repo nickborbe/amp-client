@@ -104,3 +104,33 @@
 #hp-carousel-ads .fas{
     color: #d6d6d6;
 }
+
+#hp-soc-med-prevs{
+    display: flex;
+    justify-content: center;
+}
+
+#facebook-div{
+    margin: 50px;
+    width: 240px;
+    height: 350px;
+    background-image: url('/images/fb-prev.png');
+}
+
+#instagram-div{
+    margin: 50px;
+    width: 240px;
+    height: 350px;
+    background-image: url('/images/insta-prev.png');
+}
+
+#twitter-div{
+    margin: 50px;
+    width: 240px;
+    height: 350px;
+    background-image: url('/images/twitter-prev.png'); 
+}
+
+#hp-soc-med-section h2{
+    margin: 50px 0;
+}
