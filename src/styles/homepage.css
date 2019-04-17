@@ -139,8 +139,8 @@
     background-color: #caa453;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     height: 465px;
-
 }
 
 #nonprofimage{
@@ -149,6 +149,10 @@
 
 #non-prof-left-side{
     padding: 2% 10%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
 }
 
 #non-prof-left-side h2{
@@ -164,7 +168,7 @@
     margin: 35px 0 0 0;
     background-color: black;
     color: white;
-    width: 150px;
+    width: 200px;
     padding: 10px;
     border-radius: 4px;
 }
