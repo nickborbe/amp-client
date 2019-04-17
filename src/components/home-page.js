@@ -143,9 +143,13 @@ class HomePage extends Component {
         Sponsored Ad #2 (eventually)
         </div>
 
+
+
       <section id="hp-gallery">
 
-      million images
+      <h2>Picture Gallery Fill Space</h2>
+
+      
 
       <button>View All</button>
 
