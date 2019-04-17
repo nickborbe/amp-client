@@ -45,7 +45,8 @@
 
 #hp-main-image{
     background-image: url('/images/hp-img-temp.png');
-    height: 600px;
+    height: 580px;
+    background-size: cover;
 }
 
 #mid-hp-vids{
@@ -85,8 +86,8 @@
 
 #contest-section{
     background-image: url('/images/fake-contest-section.png');
-    height: 484px;
-    background-size: contain;
+    height: 500px;
+    background-size: cover;
 }
 
 #hp-carousel-ads{
