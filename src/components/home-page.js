@@ -3,80 +3,22 @@ import React, { Component } from 'react';
 import '../styles/homepage.css';
 import '../styles/css/all.css'
 
+import Header from './layout-components/header'
+import NavBar from './layout-components/navbar'
+import VideoSection from './home-page-components/video-section'
 
 class HomePage extends Component {
   render() {
     return (
+
       <div>
-        <header id="hp-header">
-
-        <span className="hp-header-left-icons">
-        <a href="https://www.facebook.com/AnaMariaPolo/" target="_blank">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-        <a href="https://twitter.com/anapolotv?lang=en" target="_blank">  
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a href="https://www.instagram.com/anapolotv/?hl=en" target="_blank">
-          <i class="fab fa-instagram"></i>
-        </a>
-        <a href="">
-        <i class="fab fa-youtube"></i>
-        </a>
-        </span>
-          
-
-          ANA MARIA POLO
-
-          <span className="hp-header-right-icons">
-
-          <i class="fas fa-user"></i>
-          <i class="fas fa-shopping-cart"></i>
-          </span>
-        </header>
-
-        <nav className="hp-navbar">
-          <a href="#">About</a>
-          <a href="#">Contacts</a>
-          <a href="#">Videos</a>
-          <a href="#">Shop</a>
-          <a href="#">Contact</a>
-        </nav>
+        <Header />
+        <NavBar />
 
         <div id="hp-main-image">
-         
-
         </div>
 
-
-        <h2 id="latest-vid-h2">Latest Featured Videos</h2>
-        <section id="mid-hp-vids">
-
-
-        
-        <div className="left">
-
-        <img src="/images/fake-vid.png"/>
-        </div>
-
-
-        <div className="right">
-
-        <div id="first-row-vid-thumbs">
-          <img src="/images/fake-vid-thumb.png" />
-          <img src="/images/fake-vid-thumb.png" />
-        </div>
-
-        <div id="second-row-vid-thumbs">
-
-          <img src="/images/fake-vid-thumb.png" />
-          <img src="/images/fake-vid-thumb.png" />
-        </div>
-        
-        </div>
-        </section>
-
-      <button id="see-all-vids-btn">See All</button>
+        <VideoSection />
 
         <div id="sponsored-hp-ad">
         Sponsored Ad Goes Here
