@@ -23,17 +23,25 @@ class Footer extends Component {
         <div class="column">
         <h6> Connect </h6>
         <div>
+          <a href="https://www.facebook.com/AnaMariaPolo/" target="_blank">
           <i class="fab fa-facebook-f"></i>
           <span>Facebook</span>
+          </a>
+          
         </div>
         <div>
+        <a href="https://twitter.com/anapolotv?lang=en" target="_blank">  
            <i class="fab fa-twitter"></i>
           <span>Twitter</span>
+          </a>
         </div>
         <div>
-            
+
+          <a href="https://www.instagram.com/anapolotv/?hl=en" target="_blank">  
         <i class="fab fa-instagram"></i>
           <span>Instagram</span>
+          </a>
+          
         </div>
         <div>
         <i class="fab fa-youtube"></i>

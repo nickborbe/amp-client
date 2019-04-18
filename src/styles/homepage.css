@@ -273,6 +273,11 @@
     justify-content: space-between;
 }
 
+#the-footer a{
+    color: white;
+    text-decoration: none;
+}
+
 .column{
     display: flex;
     flex-direction: column;
