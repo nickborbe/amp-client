@@ -20,7 +20,7 @@ class NonProfitSection extends Component {
           <button>Donate Today</button>
         </div>
 
-        <img src="/images/nonprofit-section.png" id="nonprofimage" />
+        <img src="/images/nonprofit-section.png" id="nonprofimage" className="hide-when-small" />
 
         </section>
         
