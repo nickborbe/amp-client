@@ -12,16 +12,16 @@ class Header extends Component {
 
         <span className="hp-header-left-icons">
         <a href="https://www.facebook.com/AnaMariaPolo/" target="_blank">
-          <i class="fab fa-facebook-f"></i>
+          <i className="fab fa-facebook-f"></i>
         </a>
         <a href="https://twitter.com/anapolotv?lang=en" target="_blank">  
-          <i class="fab fa-twitter"></i>
+          <i className="fab fa-twitter"></i>
         </a>
         <a href="https://www.instagram.com/anapolotv/?hl=en" target="_blank">
-          <i class="fab fa-instagram"></i>
+          <i className="fab fa-instagram"></i>
         </a>
         <a href="">
-        <i class="fab fa-youtube"></i>
+        <i className="fab fa-youtube"></i>
         </a>
         </span>
           

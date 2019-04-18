@@ -185,34 +185,164 @@
     justify-content: center;
 }
 
-#hp-gallery-container{
-    height: 700px;
-    background-image: url('/images/hp-gallery.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 1000px;
-}
 
-#hp-gallery{
+
+/* =--=-=-=-=-=-=-=-=-=-begin gallery preview stuff =-=-=-=-=-=-=-=-=-=-=-= */
+
+#hp-gallery-section{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 
-#hp-gallery button{
+#hp-gallery-container{
+    height: 700px;
+    border: 2px solid blue;
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+}
+
+#hp-gallery-container .col-1{
+    height: 100%;
+    width: 20%;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#hp-gallery-container .col-2{
+    height: 100%;
+    width: 40%;
+    flex-grow: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  
+    
+}
+
+#row-1-col-1{
+    background-image: url('/images/hp-gallery-square.png');
+    height: 32%;
+    width: 98%;
+    
+}
+
+#row-2-col-1{
+    height: 64%;
+    width: 98%;
+    background-image: url('/images/hp-gallery-pic-vertical.png');
+  
+}
+
+
+#row-1-col-2{
+    width: 97%;
+    height: 32%;
+    background-image: url('/images/hp-gallery-pic-horizontal.png');
+}
+
+#row-2-col-2{
+    width: 98%;
+    height: 31%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#row-2-col-2a, #row-2-col-2b{
+    width: 48%;
+    height: 100%;
+    background-image: url('/images/hp-gallery-square.png');
+}
+
+#row-3-col-2{
+    width: 98%;
+    height: 31%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#row-3-col-2a{
+    width: 49%;
+    height: 100%;
+    background-image: url('/images/hp-gallery-square.png');
+}
+
+#row-3-col-2b{
+    width: 49%;
+    height: 100%;
+    background-image: url('/images/ad-pic.png');
+}
+
+
+
+
+
+#hp-gallery-section button{
 
     background-color: black;
     color: white;
     width: 180px;
     padding: 10px;
     border-radius: 5px;
-    margin: -40px 0 40px 0;
+    margin: 40px 0 40px 0;
 }
 
-#hp-gallery h2{
+#hp-gallery-section h2{
     margin: 70px 0;
 }
+
+#top-row-right-side{
+    width: 98%;
+    height: 64%;
+    display: flex;
+    justify-content: space-around;
+    align-items: space-around;
+}
+
+#bottom-row-right-side{
+    width: 98%;
+    height: 32%;
+    background-image: url('/images/hp-gallery-pic-horizontal.png');
+}
+
+#top-row-right-side .first-column{
+    width: 50%;
+    height: 100%;
+    background-image: url('/images/hp-gallery-pic-vertical.png');
+}
+
+#top-row-right-side .second-column{
+    width: 49%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+#top-row-right-side .second-column .square{
+   width: 100%;
+   height: 48%;
+   background-image: url('/images/hp-gallery-square.png');
+ 
+}
+
+@Media only screen and (max-width: 1000px){
+    .hide-when-small{
+        display: none !important;
+    }
+}
+
+
+
+
+
+/* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- gallery preview stuff end =-=-=-=-=-=-=-=-=- */
 
 #join-the-club{
     height: 280px;
@@ -315,6 +445,9 @@
 .fab{
     width: 25px;
 }
+
+
+
 
 
 
