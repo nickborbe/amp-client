@@ -11,10 +11,18 @@ class HomePage extends Component {
         <header id="hp-header">
 
         <span className="hp-header-left-icons">
-        <a href="https://www.facebook.com/AnaMariaPolo/"><i class="fab fa-facebook-f"></i></a>
-        <i class="fab fa-twitter"></i>
-        <i class="fab fa-instagram"></i>
+        <a href="https://www.facebook.com/AnaMariaPolo/">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a href="https://twitter.com/anapolotv?lang=en">  
+          <i class="fab fa-twitter"></i>
+        </a>
+        <a href="">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="">
         <i class="fab fa-youtube"></i>
+        </a>
         </span>
           
 
