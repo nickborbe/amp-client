@@ -451,3 +451,16 @@
         display: none !important;
     }
 }
+
+
+@Media only screen and (max-width: 850px){
+    .hide-when-tiny{
+        display: none !important;
+    }
+}
+
+@Media only screen and (max-width: 700px){
+    .hide-when-teeny-tiny{
+        display: none !important;
+    }
+}

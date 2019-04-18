@@ -24,13 +24,13 @@ class VideoSection extends Component {
                     <div className="right">
 
                     <div id="first-row-vid-thumbs">
-                    <img src="/images/fake-vid-thumb.png" />
+                    <img className="hide-when-tiny" src="/images/fake-vid-thumb.png" />
                     <img className="hide-when-small" src="/images/fake-vid-thumb.png" />
                     </div>
 
                     <div id="second-row-vid-thumbs">
 
-                    <img src="/images/fake-vid-thumb.png" />
+                    <img className="hide-when-tiny" src="/images/fake-vid-thumb.png" />
                     <img className="hide-when-small" src="/images/fake-vid-thumb.png" />
                     </div>
                     

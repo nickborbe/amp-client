@@ -19,7 +19,7 @@ class JoinTheClub extends Component {
 
         <h2>Join The Club!</h2>
 
-        <p>Lorem ipsum dolor amet cred yr pour-over banjo sriracha, artisan church-key cronut bicycle rights affogato cold-pressed four loko messenger bag try-hard. Distillery yr +1, meh retro you probably haven't heard of them jean shorts lumbersexual wolf austin vape cliche irony cardigan, butcher tbh adaptogen sustainable flannel.</p>
+        <p className="hide-when-teeny-tiny">Lorem ipsum dolor amet cred yr pour-over banjo sriracha, artisan church-key cronut bicycle rights affogato cold-pressed four loko messenger bag try-hard. Distillery yr +1, meh retro you probably haven't heard of them jean shorts lumbersexual wolf austin vape cliche irony cardigan, butcher tbh adaptogen sustainable flannel.</p>
 
 
         <form>
