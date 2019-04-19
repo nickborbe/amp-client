@@ -23,11 +23,12 @@ class HomePage extends Component {
     return (
 
       <div>
+
         <Header />
+
         <NavBar />
 
-        <div id="hp-main-image">
-        </div>
+        <div id="hp-main-image"></div>
 
         <VideoSection />
 
@@ -35,30 +36,20 @@ class HomePage extends Component {
 
         <ContestSection />
 
-
         <Carousel />
 
+        <SocialMediaSection />
 
-      <SocialMediaSection />
+        <NonProfitSection />
 
-      <NonProfitSection />
+        <SponsoredAd />
 
+        <GalleryPreview />
 
+        <JoinTheClub />
 
+        <Footer />
 
-      <SponsoredAd />
-
-
-
-      <GalleryPreview />
-
-
-      <JoinTheClub />
-
-      <Footer />
-
-
-   
       </div>
     );
   }
