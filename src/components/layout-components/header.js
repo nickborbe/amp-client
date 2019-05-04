@@ -24,14 +24,17 @@ class Header extends Component {
         <i className="fab fa-youtube"></i>
         </a>
         </span>
+
+        <h2>
+          ANA MARIA POLO
+        </h2>
           
 
-          ANA MARIA POLO
 
           <span className="hp-header-right-icons">
 
-          <i class="fas fa-user"></i>
-          <i class="fas fa-shopping-cart"></i>
+          <i className="fas fa-user"></i>
+          <i className="fas fa-shopping-cart"></i>
           </span>
         </header>
       )
