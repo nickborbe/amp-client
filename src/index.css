@@ -1,14 +1,26 @@
+@font-face {
+  font-family: "Modena Sans";
+  src: url("./styles/fonts/ModenaSans-Regular.otf");
+  src: url("./styles/fonts/ModenaSans-Regular.ttf") format("ttf")
+  }
+
+  @font-face {
+    font-family: "NoirPro";
+    src: url("./styles/fonts/NoirPro-Regular.eot");
+    src: url("./styles/fonts/NoirPro-Regular.otf") format("otf")
+    }
+
+
+    
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: "NoirPro";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+
+h1, h2, h3, h4, h5, h6, a{
+  font-family: "Modena Sans";
 }

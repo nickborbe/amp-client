@@ -2,22 +2,3 @@
   text-align: center;
 }
 
-@font-face {
-  font-family: "Modena Sans";
-  src: url("/fonts/ModenaSans-Regular.otf");
-  src: url("/fonts/ModenaSans-Regular.ttf") format("ttf")
-  }
-
-  @font-face {
-    font-family: "NoirPro";
-    src: url("/fonts/NoirPro-Regular.eot");
-    src: url("/fonts/NoirPro-Regular.otf") format("otf")
-    }
-
- body{
-   font-family: "NoirPro";
- }   
-
-h1, h2, h3, h4, h5, h6, a{
-  font-family: "Modena Sans";
-}
