@@ -1,12 +1,12 @@
 @font-face {
   font-family: "Modena Sans";
-  src: url("./styles/fonts/ModenaSans-Regular.otf");
-  src: url("./styles/fonts/ModenaSans-Regular.ttf") format("ttf")
+  src: url("./styles/fonts/ModenaSans-Regular.otf") format("otf");
+  src: url("./styles/fonts/ModenaSans-Regular.ttf") format("truetype");
   }
 
   @font-face {
     font-family: "NoirPro";
-    src: url("./styles/fonts/NoirPro-Regular.eot");
+    src: url("./styles/fonts/NoirPro-Regular.eot") format("eot");
     src: url("./styles/fonts/NoirPro-Regular.otf") format("otf")
     }
 
@@ -16,11 +16,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: "NoirPro";
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
 }
 
 
-h1, h2, h3, h4, h5, h6, a{
+h1, h2, h3, h4, h5, h6{
   font-family: "Modena Sans";
+  font-weight: normal;
 }
+

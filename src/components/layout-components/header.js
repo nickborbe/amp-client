@@ -25,9 +25,9 @@ class Header extends Component {
         </a>
         </span>
 
-        <h2>
+        <h4>
           ANA MARIA POLO
-        </h2>
+        </h4>
           
 
 
