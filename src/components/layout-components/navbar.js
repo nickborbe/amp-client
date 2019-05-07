@@ -12,11 +12,11 @@ class NavBar extends Component {
       return(
 
         <nav className="hp-navbar">
-        <a href="#">About</a>
-        <a href="#">Contacts</a>
-        <a href="#">Videos</a>
-        <a href="#">Shop</a>
-        <a href="#">Contact</a>
+        <a href="#">ABOUT</a>
+        <a href="#">CONTACTS</a>
+        <a href="#">VIDEOS</a>
+        <a href="#">SHOP</a>
+        <a href="#">CONTACT</a>
       </nav>
         
       )

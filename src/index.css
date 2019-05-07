@@ -7,7 +7,8 @@
   @font-face {
     font-family: "NoirPro";
     src: url("./styles/fonts/NoirPro-Regular.eot") format("eot");
-    src: url("./styles/fonts/NoirPro-Regular.otf") format("otf")
+    src: url("./styles/fonts/NoirPro-Regular.otf") format("otf");
+    src: url("./styles/fonts/NoirPro-Regular.ttf") format("truetype")
     }
 
 
@@ -20,8 +21,16 @@ body {
 }
 
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, a{
   font-family: "Modena Sans";
   font-weight: normal;
+}
+
+a{
+  font-size: 9px;
+}
+
+i{
+  font-size: 14px;
 }
 
