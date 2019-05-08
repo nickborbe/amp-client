@@ -24,9 +24,7 @@ class HomePage extends Component {
 
       <div>
 
-        <Header />
-
-        <NavBar />
+       
 
         <div id="hp-main-image"></div>
 
@@ -48,7 +46,6 @@ class HomePage extends Component {
 
         <JoinTheClub />
 
-        <Footer />
 
       </div>
     );

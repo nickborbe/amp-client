@@ -34,3 +34,106 @@ i{
   font-size: 14px;
 }
 
+
+#hp-header{
+  background-color: black;
+  height: 70px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 45px;
+}
+
+.fa-facebook-f, .fa-twitter, .fa-instagram, .fa-youtube, .fa-user, .fa-shopping-cart{
+  color: white;
+}
+
+.hp-header-left-icons{
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hp-header-right-icons{
+  width: 150px;
+  display: flex;
+  justify-content: flex-end; 
+}  
+
+.hp-header-right-icons .fas{
+  margin: 0 12px;
+}
+
+/* ------------------------ end header stuff  ----------------------*/
+
+.hp-navbar{
+ background-color: #fffef2;
+ height: 60px;
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ padding: 0 30%;
+}
+
+.hp-navbar a{
+  color: black;
+  text-decoration: none;
+  
+}
+
+::placeholder{
+  color: white;
+}
+
+#the-footer{
+  padding: 0 150px 0 25px;
+  background-color: black;
+  height: 200px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+#the-footer a{
+  color: white;
+  text-decoration: none;
+}
+
+.column{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.column i{
+  margin: 5px;
+}
+
+#footer-img-contain{
+  display: flex;
+  align-items: center;
+}
+
+#the-footer input{
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  width: 50%;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+
+#the-footer button{
+
+  background-color: white;
+  color: black;
+  width: 50px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.fab{
+  width: 25px;
+}
