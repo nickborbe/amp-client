@@ -6,7 +6,7 @@ import '../styles/css/all.css'
 import Header from './layout-components/header'
 import NavBar from './layout-components/navbar'
 import VideoSection from './home-page-components/video-section'
-import SponsoredAd from './home-page-components/sponsored-ad'
+import SponsoredAd from './layout-components/sponsored-ad'
 
 import ContestSection from './home-page-components/contest-section'
 import Carousel from './home-page-components/carousel'

@@ -11,6 +11,8 @@ import NavBar from './components/layout-components/navbar'
 
 import Footer from './components/layout-components/footer'
 
+import ContestPage from './components/contest-page'
+
 
 
 
@@ -25,9 +27,8 @@ class App extends Component {
 
       <Switch>
         <Route exact path="/" component={HomePage} />
-        {/* <Route exact path='/signup' render={() => <Signup  {...this.props} setTheUserInTheAppComponent={this.logMeIn}/>}/>
-          <Route exact path="/projects" component={ProjectList}/>
-          <Route exact path="/projects/:id" component={ProjectDetails} /> */}
+         {/* <Route exact path='/signup' render={() => <Signup  {...this.props} setTheUserInTheAppComponent={this.logMeIn}/>}/> */}
+          <Route exact path="/contest" component={ContestPage} /> 
         </Switch>
 
         <Footer />

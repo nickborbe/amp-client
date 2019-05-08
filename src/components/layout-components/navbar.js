@@ -5,6 +5,8 @@ import React, { Component } from 'react';
 import '../../styles/homepage.css';
 import '../../styles/css/all.css'
 
+import { Link } from 'react-router-dom';
+
 
 
 class NavBar extends Component {
@@ -13,7 +15,8 @@ class NavBar extends Component {
 
         <nav className="hp-navbar">
         <a href="#">ABOUT</a>
-        <a href="#">CONTACTS</a>
+        <Link to='/contest'> CONTESTS </Link>
+        
         <a href="#">VIDEOS</a>
         <a href="#">SHOP</a>
         <a href="#">CONTACT</a>
