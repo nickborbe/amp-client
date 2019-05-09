@@ -43,6 +43,25 @@ class ConestPage extends Component {
 
         </section>
 
+        <section id="conversation-section">
+
+        <div>
+          <h2>JOIN THE CONVERSATION</h2>
+          <p>lorem ipsum sucre bayu losi rama weh anda re sep aluctum strea.  ave santum resitut lacerumtun ase les prolebre has ante tacitun romante lus don.90's artisan biodiesel meditation, shoreditch kinfolk beard keytar poutine fingerstache. Fingerstache humblebrag +1, aesthetic pinterest kogi celiac pop-up raclette asymmetrical shabby chic disrupt. Farm-to-table af try-hard, synth biodiesel vaporware church-key you probably haven't heard of them adaptogen lo-fi twee cold-pressed tilde occupy slow-carb. Blog woke iPhone bitters, kogi pork belly tote bag. PBR&B street art af banh mi tumblr ch</p>
+        </div>
+
+        <div class="row">
+
+        <div class="fb-column"></div>
+        <div class="insta-column"></div>
+        <div class="twitter-column"></div>
+
+
+        </div>
+
+
+        </section>
+
        
 
         
