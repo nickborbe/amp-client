@@ -56,6 +56,7 @@ class ConestPage extends Component {
           <div class="fb-thumb"></div>
           <div class="fb-thumb"></div>
           <div class="fb-thumb"></div>
+          <div class="fb-thumb"></div>
         </div>
 
         
@@ -63,10 +64,12 @@ class ConestPage extends Component {
           <div class="insta-thumb"></div>
           <div class="insta-thumb"></div>
           <div class="insta-thumb"></div>
+          <div class="insta-thumb"></div>
         </div>
 
 
         <div class="twitter-column">
+          <div class="twitter-thumb"></div>
           <div class="twitter-thumb"></div>
           <div class="twitter-thumb"></div>
           <div class="twitter-thumb"></div>
