@@ -21,9 +21,30 @@ body {
 }
 
 
-h1, h2, h3, h4, a{
+h1, h3, h4{
   font-family: "Modena Sans";
-  font-weight: normal;
+  letter-spacing: 2px;
+}
+
+a{
+  font-family: "Modena Sans";
+  font-weight: bold;
+}
+
+h4{
+  font-size: 16px;
+}
+p{
+  font-size: 14px;
+}
+
+
+
+h2{
+  font-family: "Modena Sans";
+  font-size: 19px;
+  letter-spacing: 5px;
+ 
 }
 
 a{
@@ -98,7 +119,11 @@ i{
 #the-footer a{
   color: white;
   text-decoration: none;
+  margin: 5px;
+  font-size: 8px;
 }
+
+
 
 .column{
   display: flex;
