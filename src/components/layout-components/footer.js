@@ -69,7 +69,7 @@ class Footer extends Component {
         </div>
 
         <form className="hide-when-teeny-tiny">
-          <h6> Subcribe To Our Newsletter</h6>
+          <h6> Subscribe To Our Newsletter</h6>
           <input placeholder="email address"/>
           <button>OK</button>
 
