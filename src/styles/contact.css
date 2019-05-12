@@ -1,0 +1,77 @@
+p{
+    width: 70%;
+}
+
+.p-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.orange-form{
+    display: flex;
+    justify-content: center;
+}
+
+.orange-form form{
+    background-color: #b49449;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 65%;
+    margin: 5%;
+    padding: 25px;
+}
+
+.fieldSet{
+    width: 600px;
+    margin: 20px;
+}
+
+.fieldSet *{
+  display: block;
+  text-align: left;
+}
+
+.fieldSet input{
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #b49449;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 4px;
+
+}
+
+.fieldSet select{
+    background-color: #b49449;
+    width: 515px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 4px;
+}
+
+.fieldSet textarea{
+    background-color: #b49449;
+    width: 500px;
+    height: 200px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid black;
+    padding: 8px;
+    margin: 4px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    width: 150px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 25px;
+    position: relative;
+    left: 18%;
+}
