@@ -52,8 +52,51 @@ class ContactUsPage extends Component {
 
             <button>SEND</button>
             </form>
+
+
         </div>
 
+
+        <section className="faq-section">
+
+        <h2> FREQUENTLY ASKED QUESTIONS</h2>
+        
+        <div className="faq-drop">
+         <span>
+        THIS IS A QUESTION THAT IS OFTEN ASKED ON THIS WEBSITE.  PLEASE TAKE A MOMENT TO READ
+        </span>
+        <i className="fas fa-chevron-down"></i>
+        </div>
+
+        <div className="faq-drop">
+         <span>
+        THIS IS A QUESTION THAT IS OFTEN ASKED ON THIS WEBSITE.  PLEASE TAKE A MOMENT TO READ
+        </span>
+        <i className="fas fa-chevron-down"></i>
+        </div>
+
+        <div className="faq-drop">
+         <span>
+        THIS IS A QUESTION THAT IS OFTEN ASKED ON THIS WEBSITE.  PLEASE TAKE A MOMENT TO READ
+        </span>
+        <i className="fas fa-chevron-down"></i>
+        </div>
+
+        <div className="faq-drop">
+         <span>
+        THIS IS A QUESTION THAT IS OFTEN ASKED ON THIS WEBSITE.  PLEASE TAKE A MOMENT TO READ
+        </span>
+        <i className="fas fa-chevron-down"></i>
+        </div>
+        
+        <div className="faq-drop">
+         <span>
+        THIS IS A QUESTION THAT IS OFTEN ASKED ON THIS WEBSITE.  PLEASE TAKE A MOMENT TO READ
+        </span>
+        <i className="fas fa-chevron-down"></i>
+        </div>
+
+        </section>
  
 
 
