@@ -12,6 +12,7 @@ import NavBar from './components/layout-components/navbar'
 import Footer from './components/layout-components/footer'
 
 import ContestPage from './components/contest-page'
+import ContactUsPage from './components/contact-us-page'
 
 
 
@@ -29,6 +30,7 @@ class App extends Component {
         <Route exact path="/" component={HomePage} />
          {/* <Route exact path='/signup' render={() => <Signup  {...this.props} setTheUserInTheAppComponent={this.logMeIn}/>}/> */}
           <Route exact path="/contest" component={ContestPage} /> 
+          <Route exact path="/contact" component={ContactUsPage} /> 
         </Switch>
 
         <Footer />

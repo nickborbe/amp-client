@@ -19,7 +19,7 @@ class NavBar extends Component {
         
         <a href="#">VIDEOS</a>
         <a href="#">SHOP</a>
-        <a href="#">CONTACT</a>
+        <a href="/contact">CONTACT</a>
       </nav>
         
       )

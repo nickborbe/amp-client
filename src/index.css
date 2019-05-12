@@ -21,9 +21,23 @@ body {
 }
 
 
-h1, h3, h4, h5, h6{
+h1, h3, h4{
   font-family: "Modena Sans";
   letter-spacing: 2px;
+}
+
+h5, h6, button, input, h2, a{
+  font-family: "Modena Sans";
+}
+
+input{
+  font-size: 8px;
+}
+
+
+button{
+  font-size: 8px;
+  font-weight: bolder;
 }
 
 h6{
@@ -31,8 +45,8 @@ h6{
 }
 
 a{
-  font-family: "Modena Sans";
   font-weight: bold;
+  font-size: 9px;
 }
 
 h4{
@@ -45,14 +59,8 @@ p{
 
 
 h2{
-  font-family: "Modena Sans";
   font-size: 19px;
   letter-spacing: 5px;
- 
-}
-
-a{
-  font-size: 9px;
 }
 
 i{
@@ -123,7 +131,7 @@ i{
 #the-footer a{
   color: white;
   text-decoration: none;
-  margin: 5px;
+  margin: 5px 0;
   font-size: 8px;
 }
 
@@ -136,7 +144,11 @@ i{
 }
 
 .column i{
-  margin: 5px;
+  margin: 5px 0;
+}
+
+.column a{
+  margin: 5px 0;
 }
 
 #footer-img-contain{

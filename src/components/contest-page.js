@@ -10,7 +10,6 @@ import SponsoredAd from './layout-components/sponsored-ad'
 
 
 
-import Footer from './layout-components/footer'
 
 class ConestPage extends Component {
   render() {
