@@ -77,7 +77,7 @@ button{
     left: 18%;
 }
 
-.faq-drop{
+.faq-drop, .answer{
     width: 75%;
     padding:15px;
     border: 1px solid black;
@@ -87,6 +87,9 @@ button{
     font-size: 14px;
     margin: 5px;
 }
+
+
+
 
 .faq-section{
     display: flex;
